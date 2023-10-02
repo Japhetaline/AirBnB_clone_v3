@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 """
-@authors: Damassoh Japhet
+@authors:Damassoh Japhet
 """
 from flask import Blueprint, jsonify, request, abort
 from api.v1.views import app_views
